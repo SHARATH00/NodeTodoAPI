@@ -66,10 +66,10 @@ Designed to facilitate communication between a remote device (such as a Raspberr
 
 ## Visual Overview
 * Checkout the testing results from PostMan.
-    ![GET](img/GET.jpg)
-    ![POST](img/POST.jpg)
-    ![DELETE](img/DELETE.jpg)
-    ![UPDATE](img/UPDATE.jpg)
+    ![GET](img/GET.png)
+    ![POST](img/POST.png)
+    ![DELETE](img/DELETE.png)
+    ![UPDATE](img/UPDATE.png)
 ## Error Handling 
 * If an error occurs during processing, the API will respond with an appropriate error message and an HTTP status code indicating the error.
 
