@@ -16,11 +16,6 @@ npm install mongoose --save
 npm install nodemon --save
 
 ```
-Now a server is running on the Pi. If you plug in a Pico to the USB it will install the client code on the pico within 6 sec and make it a remote serial port.
-
-`/dev/pts/pty1`
-
-It's that easy to setup a remote serial port. Each time you plug in a pico, it will be the next `ptyN` on the list.
 
 If you haven't already installed npm:
 ```
